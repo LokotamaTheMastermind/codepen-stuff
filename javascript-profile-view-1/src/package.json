@@ -1,0 +1,34 @@
+{
+  "name": "profile-view-skeleton",
+  "version": "1.0.0",
+  "description": "HTML CSS & Javascript Profile View Page made with Skeleton CSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LokotamaTheMastermind/codepen-stuff.git"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "html",
+    "skeleton",
+    "github",
+    "codepen",
+    "project"
+  ],
+  "author": "LokotamaTheMastermind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LokotamaTheMastermind/codepen-stuff/issues"
+  },
+  "homepage": "https://github.com/LokotamaTheMastermind/codepen-stuff#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "scripts": {
+    "compile": "node-sass --watch scss -o css"
+  }
+}
