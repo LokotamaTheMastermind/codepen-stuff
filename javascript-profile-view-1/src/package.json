@@ -1,6 +1,6 @@
 {
   "name": "profile-view-skeleton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTML CSS & Javascript Profile View Page made with Skeleton CSS",
   "main": "index.html",
   "scripts": {
